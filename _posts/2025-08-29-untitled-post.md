@@ -1,5 +1,5 @@
 ---
-title: "ㄴㄴㄴ"
+title: "삼성전자 ai"
 date: 2025-08-29 11:47:23 +0900
 categories: [기술]
 tags: [Python, AI]
